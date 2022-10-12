@@ -87,6 +87,12 @@ p {
 	border-color: transparent;
 }
 
+.btn-secondary__new, .dropdown-item {
+	font-size: 12px;
+	background-color: #FFF;
+	border-color: #EFF1F1;
+}
+
 .btn-secondary__new:hover {
 	color: rgb(0, 0, 0);
 	background-color: transparent;
@@ -605,6 +611,9 @@ footer {
 	.btn-secondary__new,
 	.dropdown-item {
 		font-size: 12px;
+		background-color: #FFF;
+		border-color: #ffffff;
+		
 	}
 
 	.dropdown-toggle::after {
